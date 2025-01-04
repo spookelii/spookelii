@@ -1,5 +1,7 @@
 ## hello ponytowners
-draw me smth on my strawpage and I will forever be grateful >_<
+draw me smth on my strawpage and I will give u a smooch >_<
+
+that one guy who does not play about horror games & movies
 
 <img src="e1b33e5ff885fc2a1ff4e0087e214969.jpg">
 

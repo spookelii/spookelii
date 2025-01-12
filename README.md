@@ -11,6 +11,6 @@ that one guy who does not play about horror games & movies
 
 <img src="tumblr_8a0633f3fe0555aa6d3aebb7ff269b02_fbab9b05_100.png"> <img src="tumblr_ef112c34b85dc730cd5e77b6c829e7c9_baf42b6d_100.webp"> <img src="tumblr_fa2b83ee30954357d1988de03de038aa_27b2a28f_100.png"> <img src="tumblr_1120874b115fca85a6724efb6d3bb1ef_4811b7a0_100.jpg"> 
 
-<img src="bambino.gif"> <img src="tumblr_3decb8532406178940a0d73783c6711c_56fe9ca9_250.webp">
+<img src="bambino.gif"> <img src="tumblr_3decb8532406178940a0d73783c6711c_56fe9ca9_250.webp"> <img src="tc.webp"> <img src="dm.webp">
 
 <img src="typeo.webp"> <img src="bauhaus.webp"> <img src="siouxsie.webp"> <img src="ptv.webp">

@@ -4,6 +4,7 @@ draw me smth on my strawpage >_<
 that one guy who does not play about horror media
 
 c+h friendly, talk to me abt yaoi and i wont shut up
+
 <img src="dude fuck yes.jpg">
 
 <img src="tumblr_d2088436b706f4b59818b44388d6dafa_86fc54d5_100.png"> <img src="tumblr_67a6081f8f01d95b6303021d4ddf59ce_527d75d8_100.png"> <img src="tumblr_bf3ba5a44cf069dc777150c1cd7f6132_7d099616_100.png"> <img src="68747470733a2f2f676966636974792e63617272642e636f2f6173736574732f696d616765732f67616c6c6572793233362f33653135623664612e706e673f763d3236646666616235.png"> <img src="kmfdm.png"> <img src="blink.jpg"> <img src="pierce.webp"> 

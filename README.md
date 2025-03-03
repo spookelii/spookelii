@@ -13,4 +13,6 @@ that one guy who does not play about horror media
 
 <img src="bambino.gif"> <img src="tumblr_3decb8532406178940a0d73783c6711c_56fe9ca9_250.webp"> <img src="tc.webp"> <img src="dm.webp">
 
-<img src="typeo.webp"> <img src="bauhaus.webp"> <img src="siouxsie.webp"> <img src="ptv.webp"> <img src="outlasttrials.gif"> <img src="sisterofmercy.webp">
+<img src="typeo.webp"> <img src="bauhaus.webp"> <img src="siouxsie.webp"> <img src="ptv.webp"> 
+
+<img src="outlasttrials.gif">

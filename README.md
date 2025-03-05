@@ -1,7 +1,6 @@
 ## hello ponytowners
 
 <p align="center">draw me smth on my strawpage >_<
-
 <p align="center">that one guy who does not play about horror media
 
 <p align="center"> <img src="yaoi.png">

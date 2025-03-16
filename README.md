@@ -1,6 +1,6 @@
 ## hello ponytowners
 
-<h4 align="center">draw me smth on my strawpage >_<
+<h4 align="center">sign my straw + ata ! >_<
 <h4 align="center">that one guy who does not play about horror media
 <h4 align="center">c+h friendly if im alone blelelee
   

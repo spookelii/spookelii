@@ -2,7 +2,7 @@
 
 <h4 align="center">sign my straw + ata ! >_<
 <h4 align="center">that one guy who does not play about horror media
-<h4 align="center">c+h friendly if im alone blelelee
+<h4 align="center">c+h friendly if im alone blelee
   
 <br>
 <p align="center"> <img src="yaoi.png">

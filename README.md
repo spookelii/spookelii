@@ -4,6 +4,7 @@
 <h4 align="center">that one guy who does not play about horror media
 <h4 align="center">c+h friendly if im alone blelee
   
+<br><br>
 <br>
 <p align="center"> <img src="yaoi.png">
 

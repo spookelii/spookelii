@@ -1,6 +1,6 @@
 ## hello ponytowners
-
-<h4 align="center">sign my strawpage ! >_<
+![](https://komarev.com/ghpvc/?username=spookelii&color=#6C74B6)
+<h4 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i wont see anything yall send)
 <h4 align="center">that one guy who does not play about horror media
 <h4 align="center">c+h friendly if im alone blelee
   

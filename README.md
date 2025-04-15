@@ -2,7 +2,7 @@
 <div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/zc.php?d=7&id=7461&s=5' border='0' alt='Free Website Hit Counter'></a><br /><small></small></div>
 <h4 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i wont see anything yall send)
 <h4 align="center">that one guy who does not play about horror media
-<h4 align="center">c+h friendly if im alone blelee
+<h4 align="center">dni proship, tcc, bigots
   
 <br>
 <br>

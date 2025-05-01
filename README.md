@@ -2,7 +2,7 @@
 <h4 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i wont see anything yall send)
 <h4 align="center">that one guy who does not play about horror media
 <h4 align="center">dni proship, tcc, bigots
-  
+<h4 align="center">outlast fans iwc, i dont fw most of yall. heavy on weddie shippers
 <br>
 <br>
 <p align="center"> <img src="yaoi.png">

@@ -1,8 +1,8 @@
 ## hello ponytowners
-<h4 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i won't see any art y'all send but leave a msg if you'd like..)
-<h4 align="center">that one guy who does not play about horror media
-<h4 align="center">dni proship, tcc, bigots
-<h4 align="center">outlast fans iwc, i don't fw most of y'all. heavy on weddie shippers
+<h4 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i won't see any art y'all send but leave a msg if you'd like..)</h4>
+<h4 align="center">that one guy who does not play about horror media</h4>
+<h4 align="center">dni proship, tcc, bigots</h4>
+<h4 align="center">outlast fans iwc, i don't fw most of y'all. heavy on weddie shippers</h4>
 <br>
 <br>
 <p align="center"> <img src="yaoi.png">

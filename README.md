@@ -1,6 +1,7 @@
 <p align="center"><img src="roses.webp"></p>
 <p align="center"><img src="fishtank.webp"><img src="cowboy.webp"></p>
-<h3 align="center">sign my strawpage ! >_<</h3> <h6 align="center">(gimmicks are down rn, so i won't see any art y'all send)</h6>
+<h3 align="center">sign my strawpage ! >_<</h3> 
+<h6 align="center">(gimmicks are down rn, so i won't see any art y'all send)</h6>
 <h4 align="center">that one guy who does not play about horror media</h4>
 <h4 align="center">dni proship, tcc, bigots</h4>
 <h4 align="center">outlast fans iwc, i dont fw weddie shippers</h4>

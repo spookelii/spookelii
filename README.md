@@ -1,6 +1,6 @@
 ## hello ponytowners
 <p align="center"><img src="dividor.png"></p>
-<h4 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i won't see any art y'all send but leave a msg if you'd like..)</h4>
+<h3 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i won't see any art y'all send but leave a msg if you'd like..)</h4>
 <h4 align="center">that one guy who does not play about horror media</h4>
 <h4 align="center">dni proship, tcc, bigots</h4>
 <h6 align="center">outlast fans iwc, i dont fw weddie shippers</h4>

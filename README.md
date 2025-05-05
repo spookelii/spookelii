@@ -3,8 +3,8 @@
 <p align="center"><img src="dividor.png"></p>
 <p align="center"><img src="fishtank.webp"><img src="cowboy.webp"></p>
 <h3 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i won't see any art y'all send but leave a msg if you'd like..)</h4>
-<h5 align="center">that one guy who does not play about horror media</h4>
-<h5 align="center">dni proship, tcc, bigots</h4>
+<h4 align="center">that one guy who does not play about horror media</h4>
+<h4 align="center">dni proship, tcc, bigots</h4>
 <h6 align="center">outlast fans iwc, i dont fw weddie shippers</h4>
 <br>
 <p align="center"> <img src="yaoi.png"></p>

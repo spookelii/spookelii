@@ -1,5 +1,5 @@
 ## hello ponytowners
-<img src="dividor.png"><img src="dividor.png">
+<p align="center"><img src="dividor.png"></p>
 <h4 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i won't see any art y'all send but leave a msg if you'd like..)</h4>
 <h4 align="center">that one guy who does not play about horror media</h4>
 <h4 align="center">dni proship, tcc, bigots</h4>

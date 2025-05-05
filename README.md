@@ -1,5 +1,3 @@
-## hello ponytowners
-
 <p align="center"><img src="roses.webp"></p>
 <p align="center"><img src="fishtank.webp"><img src="cowboy.webp"></p>
 <h3 align="center">sign my strawpage ! >_< (gimmicks r currently down rn, so i won't see any art y'all send but leave a msg if you'd like..)</h4>

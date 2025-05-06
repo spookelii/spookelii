@@ -1,9 +1,12 @@
+<html>
+<head>
 <link href='https://fonts.googleapis.com/css?family=Pixelify Sans' rel='stylesheet'>
 <style>
 body {
     font-family: 'Pixelify Sans';font-size: 22px;
 }
 </style>
+</head>
 <body>
 <p align="center"><img src="roses.webp"></p>
 <p align="center"><img src="fishtank.webp"><img src="cowboy.webp"></p>
@@ -20,3 +23,4 @@ body {
 <p align="center"> <img src="bambino.gif"><img src="tumblr_443d76bdf1953ba2e74c730cb274138f_9da5312e_250.webp"><img src="outlasttrials.gif"><img src="68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861335a726433466a5a475a71595730774d3255796547383162574a725a33686b4d32567864584e7862586b315a47397a.gif"><img src="68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646d787264474e6d4f4870364d6a4a6a4d3246724d6d67316544427962325a68626a45774d4756364f4442354d584a79596.gif"><img src="tumblr_3decb8532406178940a0d73783c6711c_56fe9ca9_250.webp"><img src="tc.webp"><img src="dm.webp">
 <img src="typeo.webp"><img src="bauhaus.webp"><img src="siouxsie.webp"><img src="ptv.webp"><img src="ezgif.com-webp-to-gif-converter.gif"><img src="68747470733a2f2f65787465726e616c2d6d656469612e73706163656865792e6e65742f6d656469612f73503658412d3956546f50474b36485f2d46304242455f7a39694b6f372d677471485032723449762d5a4e343d2f687474707.gif"><img src="tumblr_e72fafdb68a799f83acd25acb23c8361_8f433300_400.webp" width="150" height="20"><img src="tumblr_6f8207e1893ec853fb38d781a2a88ece_70fdd3ba_250.webp"><img src="tumblr_2a8249f8052d7e1da51f19e2b3bbc7ff_ec0e9112_250.webp"><img src="tumblr_ae8bec599c1b95039997a03c0f4d799f_14506142_250.webp"><img src="tumblr_e2a1681cbcc27f6417b0d8ccca30b7b1_41ca9772_250.webp"><img src="tumblr_cc1316dc70db33c78466a86aee5cecd5_1b8fc89a_250.webp"><img src="reanim.webp"><img src="reanimator.webp" width="150" height="20"><img src="tumblr_c4fb9e332de0611fc763b25b23fc39c7_6c10ca23_250.webp"><img src="tumblr_d0c8719876d4bce002cac7f51b3fc233_2d80e1f1_250.webp"><img src="tumblr_fb9a8c7e423398ee1dbe46f52d0b43c2_05b7e9fc_250.webp"><img src="tumblr_ba89994b2f7803c5b3271ae0e01d221a_b63d34f3_250.webp"><img src="tumblr_4ae33faeb9d214ba9dd19aa5024e1e8b_25d007d6_250.webp"><img src="tumblr_48d3df7922a310df4d8bfb83e94cde9c_91199b44_250.webp"><img src="tumblr_a9844b1bb9be8a50b8e93f5293666b98_3f229d82_250.webp"><img src="tumblr_de7fdf324ebd5a680240181f1d09684e_6ab406d3_400.webp" width="150" height="20"><img src="tumblr_ef0d496c9cd924d6a34a16446dcd20e7_1c64e0d6_250.webp"><img src="tumblr_ed030e7378ad2601a8be05f65a31d916_869e1ea8_250.webp"><img src="68747470733a2f2f626c696e6b69652d6e65742e6e656f6369746965732e6f72672f626c696e6b6965732f31312f6672616e6b656e737465696e2e676966.gif"><img src="krill yourself.webp"><img src="lobster.webp"></p>
 
+</html>

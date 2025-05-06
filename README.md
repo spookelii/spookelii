@@ -1,9 +1,17 @@
+<link href='https://fonts.googleapis.com/css?family=Pixelify Sans' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Pixelify Sans';font-size: 22px;
+}
+</style>
+<body>
 <p align="center"><img src="roses.webp"></p>
 <p align="center"><img src="fishtank.webp"><img src="cowboy.webp"></p>
 <h3 align="center">sign my strawpage ! >_<</h3> 
 <h6 align="center">(gimmicks are down rn, so i won't see any art y'all send)</h6>
 <h4 align="center">that one guy who does not play about horror media</h4>
 <h4 align="center">dni proship, tcc, bigots, etc.. (outlast fans iwc, i dont fw weddie shippers)</h4>
+</body>
 <br>
 <p align="center"><img src="star divider.webp"></p>
 <p align="center"> <img src="tumblr_638314117611f0126894c01231e7f975_47aca86a_100.png"><img src="hi franco.png"><img src="francos.png"><img src="fran.png"><img src="mother.png"><img src="gonsebery.png"><img src="gonse.png"><img src="prime time.png"><img src="plushberry.png"><img src="plushyle.png"><img src="kill coyle.png"><img src="coylet.png"><img src="coyl.png"><img src="outlast.png"><img src="outlast 2.gif"><img src="marta.gif"><img src="outlast wb.png"><img src="cure.png"><img src="tumblr_bf3ba5a44cf069dc777150c1cd7f6132_7d099616_100.png"><img src="68747470733a2f2f676966636974792e63617272642e636f2f6173736574732f696d616765732f67616c6c6572793233362f33653135623664612e706e673f763d3236646666616235.png"><img src="kmfdm.png"><img src="lam.png"><img src="london.png"><img src="blink.jpg"><img src="pierce.webp"><img src="ton.gif"><img src="loveyou.gif"><img src="swr.png"><img src="corpusdelicti.png"><img src="bauhaus.png"><img src="siouxsie (1).webp"><img src="gonst.png"><img src="ghost.png"><img src="sisters.png"><img src="som.png"><img src="diva destruction.webp"><img src="strawbswitch.gif"><img src="joydivision.jpg"><img src="45grave.png"><img src="chemlab.png" width="99" height="56"><img src="interpol.png"><img src="68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f38663539363762392d666338342d343566362d613963332d333933386266626137323.png"><img src="tumblr_3aaec864a3ae0771dc8efbeb280526c3_e4a2d05d_100.webp"><img src="tumblr_a8004500e4c2b15090014d036f86e2be_32b52d61_250.webp" width="99" height="56"><img src="tumblr_4983714e79f13cf972bb7156093ee686_bc6e699d_250.webp"><img src="tumblr_2c5e5a9c608553d3fa6dbc3853694ad6_7219f634_100.webp"><img src="frank.png"><img src="nosferatu.gif" width="99" height="56"><img src="bubba.gif"><img src="leatherface.png"><img src="tcm.gif"><img src="iwtv.png"><img src="rhps.png"><img src="tumblr_2d182badb1054437c0181b89bb562f83_2af13516_100.webp"><img src="stars.png"><img src="bsaa.png"><img src="umbrella corp.jpg"><img src="resident_evil_deadly_silence_stamp_by_luciaauditore_dadztli-fullview.png

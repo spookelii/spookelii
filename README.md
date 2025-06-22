@@ -1,7 +1,7 @@
 <p align="center"><img src="roses.webp"></p>
 <p align="center"><img src="fishtank.webp"><img src="cowboy.webp"></p>
 <h3 align="center">hi there, sign my straw & do ur daily clicks ! >_O</h3> 
-<h3 align="center"">dni proship, tcc, bigots, etc.. (outlast fans iwc, i dont fw weddie shippers)</h3>
+<h3 align="center"">dni proship, tcc, bigots, etc.. i dunno i hide freely</h3>
 <h6 align="center">that one guy who does not play about horror media...</h6>
 <br>
 <p align="center"><img src="star divider.webp"></p>
